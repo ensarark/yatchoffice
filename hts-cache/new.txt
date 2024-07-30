@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+23:57:01	26/26	---M--	200	added ('OK')	text/plain	date:Fri,%2017%20May%202024%2020:57:03%20GMT	https://neera.wpengine.com/robots.txt		(from )
+23:57:02	879688/879688	---MCZ	200	added ('OK')	text/html	date:Fri,%2017%20May%202024%2020:57:03%20GMT	https://neera.wpengine.com/home-2/	C:/Benim%20Web%20Sitem/ada/neera.wpengine.com/home-2/index.html	(from )
