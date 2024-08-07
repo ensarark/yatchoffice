@@ -1,5 +1,4 @@
-[neera.wpengine.com/home-2/index.html]
-[backblue.gif]
-[fade.gif]
-[index.html]
-[neera.wpengine.com/home-2/index.html]
+RewriteEngine On
+
+# /inci-bir URL'sini /home-2/inci-bir.html olarak yeniden yaz
+RewriteRule ^inci-bir$ /home-2/inci-bir.html [L]
